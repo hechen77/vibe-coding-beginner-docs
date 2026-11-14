@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="760" viewBox="0 0 1080 760">
+<rect width="1080" height="760" rx="24" fill="#f5f7fb"/>
+<g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+<text x="52" y="66" font-size="32" font-weight="700" fill="#172238">同一句需求，可能是三个不同的系统</text>
+<rect x="52" y="96" width="976" height="88" rx="16" fill="#253c65"/>
+<text x="82" y="149" font-size="25" fill="white">甲方：“能报名，后台能审核，人数满了就不能报。”</text>
+<path d="M540 184 V218 H216 V246 M540 218 V246 M540 218 H864 V246" fill="none" stroke="#96a5bc" stroke-width="3"/>
+<rect x="52" y="246" width="300" height="280" rx="16" fill="white" stroke="#d9e1ed"/>
+<rect x="390" y="246" width="300" height="280" rx="16" fill="white" stroke="#d9e1ed"/>
+<rect x="728" y="246" width="300" height="280" rx="16" fill="white" stroke="#d9e1ed"/>
+<g font-size="24" font-weight="700" fill="#253c65"><text x="78" y="290">甲方心里想的</text><text x="416" y="290">你理解的</text><text x="754" y="290">AI 可能补出的</text></g>
+<g font-size="22" fill="#34435a">
+<text x="78" y="342">审核通过才占名额</text><text x="78" y="392">只审核自己负责的活动</text><text x="78" y="442">允许你取消报名</text>
+<text x="416" y="342">提交报名就占名额</text><text x="416" y="392">后台账号默认看全部</text><text x="416" y="442">取消功能暂时没想到</text>
+<text x="754" y="342">自动增加候补队列</text><text x="754" y="392">自动增加邮件通知</text><text x="754" y="442">默认允许导出全部名单</text>
+</g>
+<g font-size="18" fill="#68778d"><text x="78" y="492">未说出来的预期</text><text x="416" y="492">未经确认的理解</text><text x="754" y="492">未经授权的补充</text></g>
+<rect x="52" y="564" width="976" height="142" rx="16" fill="#e5f2ec"/>
+<text x="80" y="606" font-size="24" font-weight="700" fill="#21634a">先把差异变成问题，再确认规则。</text>
+<text x="80" y="647" font-size="22" fill="#285b48">例如：名额在提交时占用，还是审核通过时占用？</text>
+<text x="80" y="680" font-size="19" fill="#285b48">以上都是教学假设；甲方确认前，任何一列都不是正式需求。</text>
+</g></svg>

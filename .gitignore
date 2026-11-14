@@ -1,0 +1,7 @@
+node_modules/
+.cache/
+.pnpm-store/
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+.permission-recovery/
+.obsidian/
